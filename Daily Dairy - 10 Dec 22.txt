@@ -1,0 +1,11 @@
+9 December 2022
+--------------------------
+What's Hack the fall(HTF)?
+
+
+---NHost workshop----
+Note apps for resume
+How to use Nhost
+Create a simple 'signin' on Nhost 
+----Git- Github----
+Basics of git
